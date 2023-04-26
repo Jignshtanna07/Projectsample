@@ -1,0 +1,28 @@
+{
+  "restaurent": [
+    {
+      "id": 1,
+      "name": "KFC restaurent",
+      "address": "noida Sector 50",
+      "email": "kfc@test.com"
+    },
+    {
+      "id": 2,
+      "name": "KFC restaurent",
+      "address": "noida Sector 50",
+      "email": "kfc@test.com"
+    },
+    {
+      "id": 3,
+      "name": "KFC restaurent",
+      "address": "noida Sector 50",
+      "email": "kfc@test.com"
+    },
+    {
+      "name": "Sadvichar restaurent",
+      "address": "rajkot sector 50",
+      "email": "Ashapura@test",
+      "id": 4
+    }
+  ]
+}
